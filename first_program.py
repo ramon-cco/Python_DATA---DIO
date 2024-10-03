@@ -1,0 +1,1 @@
+print("Hello Word!  Oi seja bem vindo ao python")
